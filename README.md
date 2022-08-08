@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Admin Dashboard é painel de administração totalmente responsivo com Tema Claro e Tema Escuro. Além criação de itens para a tabela de "Recent Orders" através de JavaScript.
 
 ## Layout ☑
-Você pode conferir o layout aqui: 
+Você pode conferir o layout aqui: <a href="https://vitoorfraga.github.io/admin-dasheboard/">Admin Dashboard</a>
