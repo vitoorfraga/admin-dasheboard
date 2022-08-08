@@ -25,3 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Admin Dashboard é painel de administração totalmente responsivo com Tema Claro e Tema Escuro. Além criação de itens para a tabela de "Recent Orders" através de JavaScript.
+
+## Layout ☑
+Você pode conferir o layout aqui: 
